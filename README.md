@@ -26,7 +26,7 @@ SurveyForm is a versatile and open-source web application that allows you to cre
 
 ## Demo
 
-[Watch a Demo Video]<iframe src="https://drive.google.com/file/d/1HeYvQHVm8C-s84h-HcxIQGfmHkMBu7AC/preview" width="640" height="480" allow="autoplay"></iframe>
+[Watch a Demo Video]"https://drive.google.com/file/d/1HeYvQHVm8C-s84h-HcxIQGfmHkMBu7AC/preview"
 
 ## Contributing
 
